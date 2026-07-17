@@ -4,8 +4,14 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     public float kecepatan = 5f;
-    public int score;
+    public int skor;
+    private GameManager gameManager;
     private Vector2 arahGerak; // nilai dari action "Move"
+
+    void Start()
+    {
+        gameManager = FindFirstObjectByType<GameManager>();
+    }
 
     // Dipanggil OTOMATIS oleh komponen Player Input
     // saat action "Move" pada asset InputSystem_Actions aktif.
@@ -15,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
         // TODO: ambil nilai Vector2 dari input, simpan ke arahGerak
         arahGerak = value.Get<Vector2>();
     }
+
     void Update()
     {
         // TODO: gerakkan objek memakai arahGerak.
@@ -31,8 +38,16 @@ public class PlayerMovement : MonoBehaviour
         {
             // TODO: hancurkan koin yang tersentuh
             Destroy(other.gameObject);
-            score += 1;
-            Debug.Log("Score: " + score);
+            skor += 1;
+            Debug.Log("<color=cyan>Skor : </color>" + skor);
+
+            if (gameManager != null)
+            {
+                gameManager.AmbilKoin();
+            } else
+            {
+                Debug.LogWarning("GameManager tidak ditemukan!");
+            }
         }
     }
 
