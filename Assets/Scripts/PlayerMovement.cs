@@ -4,6 +4,7 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     public float kecepatan = 5f;
+    public int score;
     private Vector2 arahGerak; // nilai dari action "Move"
 
     // Dipanggil OTOMATIS oleh komponen Player Input
@@ -20,6 +21,19 @@ public class PlayerMovement : MonoBehaviour
         // Ingat kalikan kecepatan DAN Time.deltaTime!
         Vector3 arah = new Vector3(arahGerak.x, arahGerak.y, 0);
         transform.position += arah * kecepatan * Time.deltaTime;
+    }
+
+    // Dipanggil otomatis saat Player menyentuh objek ber-Trigger
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        // TODO: cek apakah yang disentuh punya tag "Coin"
+        if (other.CompareTag("Coin"))
+        {
+            // TODO: hancurkan koin yang tersentuh
+            Destroy(other.gameObject);
+            score += 1;
+            Debug.Log("Score: " + score);
+        }
     }
 
 }
