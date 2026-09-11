@@ -1,9 +1,10 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour, IDamageable
 {
     public float kecepatan = 5f;
+    private int hp = 100;
     public int skor;
     private GameManager gameManager;
     private Vector2 arahGerak; // nilai dari action "Move"
@@ -49,6 +50,17 @@ public class PlayerMovement : MonoBehaviour
                 Debug.LogWarning("GameManager tidak ditemukan!");
             }
         }
+    }
+
+    public void KenaDamage(int damage)
+    {
+        hp -= damage;
+        if (hp < 0)
+        {
+            hp = 0;
+        }
+
+        Debug.Log("HP Player: " + hp);
     }
 
 }
