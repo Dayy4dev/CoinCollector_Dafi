@@ -10,13 +10,13 @@ public class Enemy : MonoBehaviour, IDamageable
     protected Transform player;
 
     [Header("State Machine")]
-    [SerializeField] private float JarakDeteksi = 6f;
-    [SerializeField] private float JarakSerang = 1.5f;
-    [SerializeField] private float JedaSerang = 1f;
+    [SerializeField] private float jarakDeteksi = 6f;
+    [SerializeField] private float jarakSerang = 1.5f;
+    [SerializeField] private float jedaSerang = 1f;
     [SerializeField] private float radiusPatrol = 3f;
     private Vector2 targetPatrol;
     private Vector2 awalPatrol;
-    
+
 
     private StateZombie state = StateZombie.IDLE;
     private float waktuSerangTerakhir;
@@ -30,7 +30,7 @@ public class Enemy : MonoBehaviour, IDamageable
         {
             player = playerObj.transform;
         }
-        
+
         awalPatrol = transform.position;
         targetPatrol = awalPatrol + UnityEngine.Random.insideUnitCircle * radiusPatrol;
     }
@@ -58,11 +58,11 @@ public class Enemy : MonoBehaviour, IDamageable
     {
         float jarak = JarakKePlayer();
 
-        if (jarak <= JarakSerang)
+        if (jarak <= jarakSerang)
         {
             state = StateZombie.ATTACK;
         }
-        else if (jarak <= JarakDeteksi)
+        else if (jarak <= jarakDeteksi)
         {
             state = StateZombie.CHASE;
         }
@@ -70,6 +70,12 @@ public class Enemy : MonoBehaviour, IDamageable
         {
             state = StateZombie.PATROL;
         }
+    }
+
+    void PerilakuChase()
+    {
+        Kejar();
+        Debug.Log("Enemy sedang CHASE");
     }
 
     public void Kejar()
@@ -85,11 +91,9 @@ public class Enemy : MonoBehaviour, IDamageable
 
     public virtual void Serang()
     {
-        Debug.Log("Enemy menyerang!");
+        Debug.Log("Enemy Serang");
     }
 
-    // Dipanggil otomatis oleh Unity saat collider enemy menabrak collider lain.
-    // Karena ada di class induk, SEMUA turunan zombie ikut punya perilaku ini.
     void PerilakuIdle()
     {
         Debug.Log("Enemy sedang IDLE");
@@ -110,15 +114,13 @@ public class Enemy : MonoBehaviour, IDamageable
         }
     }
 
-    void PerilakuChase()
-    {
-        Kejar();
-        Debug.Log("Enemy sedang CHASE");
-    }
-
     void PerilakuAttack()
     {
-        Debug.Log("Enemy sedang ATTACK");
+        if (Time.time >= waktuSerangTerakhir + jedaSerang)
+        {
+            Serang();
+            waktuSerangTerakhir = Time.time;
+        }
     }
 
     public void KenaDamage(int damage)
@@ -132,19 +134,10 @@ public class Enemy : MonoBehaviour, IDamageable
         }
     }
 
-    // protected virtual void Mati()
-    // {
-    //     Debug.Log("Enemy mati!");
-    //     Destroy(gameObject);
-    // }
-
     protected virtual void Mati()
     {
         Debug.Log(name + " kalah!");
-
-        // '?.Invoke' -> aman walau belum ada yang mendengarkan (tidak error)
-        OnZombieMati?.Invoke(this);   // kirim 'this' = info diri sendiri
-
+        OnZombieMati?.Invoke(this);
         Destroy(gameObject);
     }
 

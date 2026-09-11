@@ -55,12 +55,11 @@ public class PlayerMovement : MonoBehaviour, IDamageable
     public void KenaDamage(int damage)
     {
         hp -= damage;
-        if (hp < 0)
+        Debug.Log("<color=yellow>Player Kena Damage: " + damage + ", sisa HP: " + hp + "</color>");
+        if (hp <= 0)
         {
-            hp = 0;
+            Debug.Log("<color=red>Player Mati</color>");
         }
-
-        Debug.Log("HP Player: " + hp);
     }
 
 }
