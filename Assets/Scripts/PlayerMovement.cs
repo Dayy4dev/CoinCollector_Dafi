@@ -54,9 +54,15 @@ public class PlayerMovement : MonoBehaviour, IDamageable
 
     public void KenaDamage(int damage)
     {
-        hp -= damage;
-        Debug.Log("<color=yellow>Player Kena Damage: " + damage + ", sisa HP: " + hp + "</color>");
         if (hp <= 0)
+        {
+            return;
+        }
+
+        hp = Mathf.Max(0, hp - damage);
+        Debug.Log("<color=yellow>Player Kena Damage: " + damage + ", sisa HP: " + hp + "</color>");
+
+        if (hp == 0)
         {
             Debug.Log("<color=red>Player Mati</color>");
         }
