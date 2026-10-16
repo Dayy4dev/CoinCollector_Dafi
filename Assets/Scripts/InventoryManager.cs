@@ -74,6 +74,17 @@ public class InventoryManager : MonoBehaviour, GrabableItem
             return;
         }
 
+        // First, try to stack the item onto a slot that already holds the same item
+        for (int i = 0; i < itemSlot.Length; i++)
+        {
+            if (itemSlot[i].CanStackWith(item.ItemName))
+            {
+                itemSlot[i].AddQuantity(item.Quantity);
+                return;
+            }
+        }
+
+        // Otherwise, put the item into the first empty slot
         for (int i = 0; i < itemSlot.Length; i++)
         {
             if (!itemSlot[i].isFull)
