@@ -1,7 +1,7 @@
 using UnityEngine;
-using UnityEngine.EventSystems;
 using TMPro;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class ItemSlot : MonoBehaviour, IPointerClickHandler
 {
@@ -11,66 +11,74 @@ public class ItemSlot : MonoBehaviour, IPointerClickHandler
     public Sprite itemIcon;
     public bool isFull;
 
-    // The full data of the item in this slot (the details panel needs it)
-    public ItemDetails ItemDetails => itemDetails;
-
-    // Maximum number of items that fit in one slot
-    [SerializeField] private int maxStackSize = 99;
-
     // Item Slot
     [SerializeField] private TMP_Text quantityText;
     [SerializeField] private Image itemImage;
-    [SerializeField] private GameObject selectedPanel;
+    [SerializeField] private int maxStackSize = 99;
 
-    // The data of the item currently stored in this slot
+    // Selected Item
+    [SerializeField] public GameObject selectedPanel;
+    public bool isItemSelected;
+
+    public ItemDetails ItemDetails => itemDetails;
     private ItemDetails itemDetails;
 
-    // The inventory that created this slot
-    private InventoryManager inventory;
+    public InventoryManager inventoryManager;
 
-    // Called by InventoryManager right after this slot is created
-    public void Setup(InventoryManager owner)
+    public void Start()
     {
-        inventory = owner;
-        SetSelected(false);
-    }
-
-    // Check if this slot can stack more of the same item
-    public bool CanStackWith(string otherItemName)
-    {
-        return !isFull && itemName == otherItemName;
+        inventoryManager = FindAnyObjectByType<InventoryManager>();
     }
 
     public void AddItem(ItemDetails item)
     {
         itemDetails = item;
         itemName = item.ItemName;
-        itemQuantity = item.Quantity;
         itemIcon = item.ItemIcon;
-        isFull = true;
+        AddQuantity(item.Quantity);
+    }
 
+    public bool IsEmpty => itemQuantity <= 0;
+
+    public bool CanStackWith(string otherItemName)
+    {
+        return !isFull && itemName == otherItemName;
+    }
+
+    public void AddQuantity(int amount)
+    {
+        itemQuantity += amount;
+        isFull = itemQuantity >= maxStackSize;
+        
         quantityText.text = itemQuantity.ToString();
         quantityText.enabled = true;
         itemImage.sprite = itemIcon;
     }
 
-    // Unity calls this when the player clicks on the slot
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (!isFull || inventory == null)
+        if (eventData.button == PointerEventData.InputButton.Left)
         {
-            return; // empty slot: nothing to show
+            LeftClick();
         }
-
-        inventory.SelectSlot(this);
+        
+        if (eventData.button == PointerEventData.InputButton.Right)
+        {
+            RightClick();
+        }
     }
-
-    // Show or hide the selection highlight of this slot
-    public void SetSelected(bool selected)
+    private void LeftClick()
     {
-        if (selectedPanel != null)
+        if (IsEmpty || inventoryManager == null)
         {
-            selectedPanel.SetActive(selected);
+            return;
         }
+
+        inventoryManager.SelectSlot(this);
+    }
+    private void RightClick()
+    {
+        
+        Debug.Log("Right Clicked on ");
     }
 }

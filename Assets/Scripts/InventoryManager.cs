@@ -9,7 +9,6 @@ public class InventoryManager : MonoBehaviour, GrabableItem
     [SerializeField] private int slotCount = 16;
     [SerializeField] private ItemDetailsPanel detailsPanel;
     private bool InventoryActive;
-    private ItemSlot selectedSlot;
     public ItemSlot[] itemSlot;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -20,6 +19,10 @@ public class InventoryManager : MonoBehaviour, GrabableItem
         inventoryAction = InputSystem.actions.FindAction("Inventory");
         InventoryActive = false;
 
+        if (detailsPanel == null)
+        {
+            Debug.LogWarning("No ItemDetailsPanel is assigned, item details will not be shown.", this);
+        }
     }
 
     // Update is called once per frame
@@ -31,6 +34,7 @@ public class InventoryManager : MonoBehaviour, GrabableItem
             Time.timeScale = 0f;
             Debug.Log("Inventory is active");
             InventoryCanvas.SetActive(true);
+            ShowFirstItem();
         } else if (inventoryAction.triggered && InventoryCanvas != null && InventoryActive == true)
         {
             InventoryActive = false;
@@ -40,7 +44,6 @@ public class InventoryManager : MonoBehaviour, GrabableItem
         }
     }
 
-    // Build the slot objects at runtime so no manual wiring is needed in the scene
     private void CreateSlots()
     {
         ItemSlot slotPrefab = Resources.Load<ItemSlot>("ItemSlot");
@@ -51,7 +54,6 @@ public class InventoryManager : MonoBehaviour, GrabableItem
             return;
         }
 
-        // Put the slots inside the GridLayoutGroup container (InventorySlots), if there is one
         Transform parent = InventoryCanvas.transform;
         GridLayoutGroup grid = InventoryCanvas.GetComponentInChildren<GridLayoutGroup>(true);
         if (grid != null)
@@ -63,26 +65,6 @@ public class InventoryManager : MonoBehaviour, GrabableItem
         for (int i = 0; i < itemSlot.Length; i++)
         {
             itemSlot[i] = Instantiate(slotPrefab, parent);
-            itemSlot[i].Setup(this);
-        }
-    }
-
-    // Called by a slot when the player clicks on it
-    public void SelectSlot(ItemSlot slot)
-    {
-        // Only one slot can be selected at a time
-        if (selectedSlot != null)
-        {
-            selectedSlot.SetSelected(false);
-        }
-
-        selectedSlot = slot;
-        slot.SetSelected(true);
-
-        // Show the item on the details panel (right side)
-        if (detailsPanel != null)
-        {
-            detailsPanel.Show(slot.ItemDetails);
         }
     }
 
@@ -98,7 +80,16 @@ public class InventoryManager : MonoBehaviour, GrabableItem
 
         for (int i = 0; i < itemSlot.Length; i++)
         {
-            if (!itemSlot[i].isFull)
+            if (itemSlot[i].CanStackWith(item.ItemName))
+            {
+                itemSlot[i].AddQuantity(item.Quantity);
+                return;
+            }
+        }
+
+        for (int i = 0; i < itemSlot.Length; i++)
+        {
+            if (itemSlot[i].IsEmpty)
             {
                 itemSlot[i].AddItem(item);
                 return;
@@ -106,5 +97,47 @@ public class InventoryManager : MonoBehaviour, GrabableItem
         }
 
         Debug.LogWarning("Inventory is full, '" + item.ItemName + "' was lost.");
+    }
+
+    public void SelectSlot(ItemSlot slot)
+    {
+        DesselectAllSlot();
+
+        slot.selectedPanel.SetActive(true);
+        slot.isItemSelected = true;
+
+        if (detailsPanel != null)
+        {
+            detailsPanel.Show(slot.ItemDetails, slot.itemQuantity);
+        }
+    }
+
+    private void ShowFirstItem()
+    {
+        if (itemSlot != null)
+        {
+            foreach (ItemSlot slot in itemSlot)
+            {
+                if (!slot.IsEmpty)
+                {
+                    SelectSlot(slot);
+                    return;
+                }
+            }
+        }
+
+        if (detailsPanel != null)
+        {
+            detailsPanel.Clear();
+        }
+    }
+
+    public void DesselectAllSlot()
+    {
+        foreach (ItemSlot slot in itemSlot)
+        {
+            slot.isItemSelected = false;
+            slot.selectedPanel.SetActive(false);
+        }
     }
 }
