@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 10e9f6f4691837645b8bb474698b123e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4335654934776133661
+    second: Key 15 - BRONZE - Spritesheet_0
+  - first:
+      213: -8204513014821795855
+    second: Key 15 - BRONZE - Spritesheet_1
+  - first:
+      213: -7154284613015923653
+    second: Key 15 - BRONZE - Spritesheet_2
+  - first:
+      213: -1261525772365354906
+    second: Key 15 - BRONZE - Spritesheet_3
+  - first:
+      213: -1322510315958331817
+    second: Key 15 - BRONZE - Spritesheet_4
+  - first:
+      213: -7093703546762896113
+    second: Key 15 - BRONZE - Spritesheet_5
+  - first:
+      213: -7909308839698449704
+    second: Key 15 - BRONZE - Spritesheet_6
+  - first:
+      213: -6320840052513325508
+    second: Key 15 - BRONZE - Spritesheet_7
+  - first:
+      213: -3419826618427558427
+    second: Key 15 - BRONZE - Spritesheet_8
+  - first:
+      213: 7222937274309816164
+    second: Key 15 - BRONZE - Spritesheet_9
+  - first:
+      213: 5762364071472191098
+    second: Key 15 - BRONZE - Spritesheet_10
+  - first:
+      213: 1872704074887679777
+    second: Key 15 - BRONZE - Spritesheet_11
+  - first:
+      213: 6703226990610612085
+    second: Key 15 - BRONZE - Spritesheet_12
+  - first:
+      213: -7069928192721045109
+    second: Key 15 - BRONZE - Spritesheet_13
+  - first:
+      213: -883928278550729625
+    second: Key 15 - BRONZE - Spritesheet_14
+  - first:
+      213: -4111686239883358156
+    second: Key 15 - BRONZE - Spritesheet_15
+  - first:
+      213: 5796959031884854398
+    second: Key 15 - BRONZE - Spritesheet_16
+  - first:
+      213: -1392965120260256923
+    second: Key 15 - BRONZE - Spritesheet_17
+  - first:
+      213: 4390939233993693565
+    second: Key 15 - BRONZE - Spritesheet_18
+  - first:
+      213: 4082991869119547782
+    second: Key 15 - BRONZE - Spritesheet_19
+  - first:
+      213: -4153045004078977944
+    second: Key 15 - BRONZE - Spritesheet_20
+  - first:
+      213: 9172162027076520273
+    second: Key 15 - BRONZE - Spritesheet_21
+  - first:
+      213: -4887540658287449087
+    second: Key 15 - BRONZE - Spritesheet_22
+  - first:
+      213: -5829824262398724352
+    second: Key 15 - BRONZE - Spritesheet_23
+  - first:
+      213: -4142418012199723060
+    second: Key 15 - BRONZE - Spritesheet_24
+  - first:
+      213: 8068956138434379143
+    second: Key 15 - BRONZE - Spritesheet_25
+  - first:
+      213: 1885211201671515933
+    second: Key 15 - BRONZE - Spritesheet_26
+  - first:
+      213: -4270895458380957695
+    second: Key 15 - BRONZE - Spritesheet_27
+  - first:
+      213: -2583808482661673586
+    second: Key 15 - BRONZE - Spritesheet_28
+  - first:
+      213: 7293158040951643438
+    second: Key 15 - BRONZE - Spritesheet_29
+  - first:
+      213: 8756449259151648219
+    second: Key 15 - BRONZE - Spritesheet_30
+  - first:
+      213: 5140688542272016481
+    second: Key 15 - BRONZE - Spritesheet_31
+  - first:
+      213: -8921762676674528985
+    second: Key 15 - BRONZE - Spritesheet_32
+  - first:
+      213: 852026953376653424
+    second: Key 15 - BRONZE - Spritesheet_33
+  - first:
+      213: 1058417577531453211
+    second: Key 15 - BRONZE - Spritesheet_34
+  - first:
+      213: 8044594878899084885
+    second: Key 15 - BRONZE - Spritesheet_35
+  - first:
+      213: 1817971643121743554
+    second: Key 15 - BRONZE - Spritesheet_36
+  - first:
+      213: 5942260530044222131
+    second: Key 15 - BRONZE - Spritesheet_37
+  - first:
+      213: 7510955199431271407
+    second: Key 15 - BRONZE - Spritesheet_38
+  - first:
+      213: -3716361342747604116
+    second: Key 15 - BRONZE - Spritesheet_39
+  - first:
+      213: 1282498042529077072
+    second: Key 15 - BRONZE - Spritesheet_40
+  - first:
+      213: 5251835778739625980
+    second: Key 15 - BRONZE - Spritesheet_41
+  - first:
+      213: -1478130210300548534
+    second: Key 15 - BRONZE - Spritesheet_42
+  - first:
+      213: -2019682579814413123
+    second: Key 15 - BRONZE - Spritesheet_43
+  - first:
+      213: -284081958241347191
+    second: Key 15 - BRONZE - Spritesheet_44
+  - first:
+      213: 2763134042398182226
+    second: Key 15 - BRONZE - Spritesheet_45
+  - first:
+      213: -3737474330357635005
+    second: Key 15 - BRONZE - Spritesheet_46
+  - first:
+      213: -8612342790425523762
+    second: Key 15 - BRONZE - Spritesheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7cfffdec8a4d3c0800000000000000
+      internalID: -4335654934776133661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f74a74e1e6b32e80800000000000000
+      internalID: -8204513014821795855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34942bac00e6bc90800000000000000
+      internalID: -7154284613015923653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668a92f6ef82e7ee0800000000000000
+      internalID: -1261525772365354906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7569385efdf75ade0800000000000000
+      internalID: -1322510315958331817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dd441553a1e8d90800000000000000
+      internalID: -7093703546762896113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dabaeef38d7c3290800000000000000
+      internalID: -7909308839698449704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eb1e3267dd748a0800000000000000
+      internalID: -6320840052513325508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5333f3fc55a80d0800000000000000
+      internalID: -3419826618427558427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f2a26ae270d3460800000000000000
+      internalID: 7222937274309816164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d29ab79708ff40800000000000000
+      internalID: 5762364071472191098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f4b112f6e2df910800000000000000
+      internalID: 1872704074887679777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ff728ce65a60d50800000000000000
+      internalID: 6703226990610612085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b75d44c192ed90800000000000000
+      internalID: -7069928192721045109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76caf06f9e7abb3f0800000000000000
+      internalID: -883928278550729625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43014e3462b50f6c0800000000000000
+      internalID: -4111686239883358156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e743df0a68fe27050800000000000000
+      internalID: 5796959031884854398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bc0667a913bace0800000000000000
+      internalID: -1392965120260256923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79158818ffbfec30800000000000000
+      internalID: 4390939233993693565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689cdabe873b9a830800000000000000
+      internalID: 4082991869119547782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c69a3929b6d56c0800000000000000
+      internalID: -4153045004078977944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159093674c01a4f70800000000000000
+      internalID: 9172162027076520273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c6f75aaa7fb2cb0800000000000000
+      internalID: -4887540658287449087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00735c898bd481fa0800000000000000
+      internalID: -5829824262398724352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfd7afe3cc2386c0800000000000000
+      internalID: -4142418012199723060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78db6935bd0baff60800000000000000
+      internalID: 8068956138434379143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fc732899d992a10800000000000000
+      internalID: 1885211201671515933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108bf52753bbab4c0800000000000000
+      internalID: -4270895458380957695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e855f47efd7742cd0800000000000000
+      internalID: -2583808482661673586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd4b1f890863560800000000000000
+      internalID: 7293158040951643438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd567712538258970800000000000000
+      internalID: 8756449259151648219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1605b0f1ef4675740800000000000000
+      internalID: 5140688542272016481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729f9767d188f2480800000000000000
+      internalID: -8921762676674528985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e217fff103db00800000000000000
+      internalID: 852026953376653424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1faac4dd2140be00800000000000000
+      internalID: 1058417577531453211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ed4b69b6424af60800000000000000
+      internalID: 8044594878899084885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63100d39bba3910800000000000000
+      internalID: 1817971643121743554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba3c18f776277250800000000000000
+      internalID: 5942260530044222131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe369f985f54c3860800000000000000
+      internalID: 7510955199431271407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b09848c05dc6cc0800000000000000
+      internalID: -3716361342747604116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057541abc295cc110800000000000000
+      internalID: 1282498042529077072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff567ab0d442e840800000000000000
+      internalID: 5251835778739625980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a234bb760ac7be0800000000000000
+      internalID: -1478130210300548534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0e17f465a8f3e0800000000000000
+      internalID: -2019682579814413123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895defc6fcbe0cf0800000000000000
+      internalID: -284081958241347191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bcee795cf985620800000000000000
+      internalID: 2763134042398182226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34864e506e2d12cc0800000000000000
+      internalID: -3737474330357635005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - BRONZE - Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec94accbcdfca7880800000000000000
+      internalID: -8612342790425523762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Key 15 - BRONZE - Spritesheet_0: -4335654934776133661
+      Key 15 - BRONZE - Spritesheet_1: -8204513014821795855
+      Key 15 - BRONZE - Spritesheet_10: 5762364071472191098
+      Key 15 - BRONZE - Spritesheet_11: 1872704074887679777
+      Key 15 - BRONZE - Spritesheet_12: 6703226990610612085
+      Key 15 - BRONZE - Spritesheet_13: -7069928192721045109
+      Key 15 - BRONZE - Spritesheet_14: -883928278550729625
+      Key 15 - BRONZE - Spritesheet_15: -4111686239883358156
+      Key 15 - BRONZE - Spritesheet_16: 5796959031884854398
+      Key 15 - BRONZE - Spritesheet_17: -1392965120260256923
+      Key 15 - BRONZE - Spritesheet_18: 4390939233993693565
+      Key 15 - BRONZE - Spritesheet_19: 4082991869119547782
+      Key 15 - BRONZE - Spritesheet_2: -7154284613015923653
+      Key 15 - BRONZE - Spritesheet_20: -4153045004078977944
+      Key 15 - BRONZE - Spritesheet_21: 9172162027076520273
+      Key 15 - BRONZE - Spritesheet_22: -4887540658287449087
+      Key 15 - BRONZE - Spritesheet_23: -5829824262398724352
+      Key 15 - BRONZE - Spritesheet_24: -4142418012199723060
+      Key 15 - BRONZE - Spritesheet_25: 8068956138434379143
+      Key 15 - BRONZE - Spritesheet_26: 1885211201671515933
+      Key 15 - BRONZE - Spritesheet_27: -4270895458380957695
+      Key 15 - BRONZE - Spritesheet_28: -2583808482661673586
+      Key 15 - BRONZE - Spritesheet_29: 7293158040951643438
+      Key 15 - BRONZE - Spritesheet_3: -1261525772365354906
+      Key 15 - BRONZE - Spritesheet_30: 8756449259151648219
+      Key 15 - BRONZE - Spritesheet_31: 5140688542272016481
+      Key 15 - BRONZE - Spritesheet_32: -8921762676674528985
+      Key 15 - BRONZE - Spritesheet_33: 852026953376653424
+      Key 15 - BRONZE - Spritesheet_34: 1058417577531453211
+      Key 15 - BRONZE - Spritesheet_35: 8044594878899084885
+      Key 15 - BRONZE - Spritesheet_36: 1817971643121743554
+      Key 15 - BRONZE - Spritesheet_37: 5942260530044222131
+      Key 15 - BRONZE - Spritesheet_38: 7510955199431271407
+      Key 15 - BRONZE - Spritesheet_39: -3716361342747604116
+      Key 15 - BRONZE - Spritesheet_4: -1322510315958331817
+      Key 15 - BRONZE - Spritesheet_40: 1282498042529077072
+      Key 15 - BRONZE - Spritesheet_41: 5251835778739625980
+      Key 15 - BRONZE - Spritesheet_42: -1478130210300548534
+      Key 15 - BRONZE - Spritesheet_43: -2019682579814413123
+      Key 15 - BRONZE - Spritesheet_44: -284081958241347191
+      Key 15 - BRONZE - Spritesheet_45: 2763134042398182226
+      Key 15 - BRONZE - Spritesheet_46: -3737474330357635005
+      Key 15 - BRONZE - Spritesheet_47: -8612342790425523762
+      Key 15 - BRONZE - Spritesheet_5: -7093703546762896113
+      Key 15 - BRONZE - Spritesheet_6: -7909308839698449704
+      Key 15 - BRONZE - Spritesheet_7: -6320840052513325508
+      Key 15 - BRONZE - Spritesheet_8: -3419826618427558427
+      Key 15 - BRONZE - Spritesheet_9: 7222937274309816164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

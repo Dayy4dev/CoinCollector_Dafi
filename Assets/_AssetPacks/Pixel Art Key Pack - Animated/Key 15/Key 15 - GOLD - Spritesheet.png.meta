@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 786f58d17cf85bb43bb8b6a79a8888b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 497782566955598177
+    second: Key 15 - GOLD - Spritesheet_0
+  - first:
+      213: 209004586829829700
+    second: Key 15 - GOLD - Spritesheet_1
+  - first:
+      213: 5969883959654821603
+    second: Key 15 - GOLD - Spritesheet_2
+  - first:
+      213: -5145936578062699604
+    second: Key 15 - GOLD - Spritesheet_3
+  - first:
+      213: -2254821119750980979
+    second: Key 15 - GOLD - Spritesheet_4
+  - first:
+      213: 1892220728123688721
+    second: Key 15 - GOLD - Spritesheet_5
+  - first:
+      213: 6640224558422213075
+    second: Key 15 - GOLD - Spritesheet_6
+  - first:
+      213: -5600288922783019393
+    second: Key 15 - GOLD - Spritesheet_7
+  - first:
+      213: 8516051311754483266
+    second: Key 15 - GOLD - Spritesheet_8
+  - first:
+      213: -3468223271629984810
+    second: Key 15 - GOLD - Spritesheet_9
+  - first:
+      213: -4442916049561312309
+    second: Key 15 - GOLD - Spritesheet_10
+  - first:
+      213: -281306841258662638
+    second: Key 15 - GOLD - Spritesheet_11
+  - first:
+      213: -8374996757454328548
+    second: Key 15 - GOLD - Spritesheet_12
+  - first:
+      213: 8670282746529810009
+    second: Key 15 - GOLD - Spritesheet_13
+  - first:
+      213: -3159746887997223993
+    second: Key 15 - GOLD - Spritesheet_14
+  - first:
+      213: -2933588055102437555
+    second: Key 15 - GOLD - Spritesheet_15
+  - first:
+      213: -5655472555348110358
+    second: Key 15 - GOLD - Spritesheet_16
+  - first:
+      213: -5565084692925996418
+    second: Key 15 - GOLD - Spritesheet_17
+  - first:
+      213: -5751688022517011465
+    second: Key 15 - GOLD - Spritesheet_18
+  - first:
+      213: 5915131661675728530
+    second: Key 15 - GOLD - Spritesheet_19
+  - first:
+      213: 3240096059148284055
+    second: Key 15 - GOLD - Spritesheet_20
+  - first:
+      213: 6734146921276555075
+    second: Key 15 - GOLD - Spritesheet_21
+  - first:
+      213: 554538446036011712
+    second: Key 15 - GOLD - Spritesheet_22
+  - first:
+      213: -8349173691127772115
+    second: Key 15 - GOLD - Spritesheet_23
+  - first:
+      213: -471947995567696306
+    second: Key 15 - GOLD - Spritesheet_24
+  - first:
+      213: 89066273601416312
+    second: Key 15 - GOLD - Spritesheet_25
+  - first:
+      213: 5013959760851380707
+    second: Key 15 - GOLD - Spritesheet_26
+  - first:
+      213: -6252793163818802115
+    second: Key 15 - GOLD - Spritesheet_27
+  - first:
+      213: -6016118537628208326
+    second: Key 15 - GOLD - Spritesheet_28
+  - first:
+      213: 1272283889148662270
+    second: Key 15 - GOLD - Spritesheet_29
+  - first:
+      213: 3277499378446338386
+    second: Key 15 - GOLD - Spritesheet_30
+  - first:
+      213: -1584790065750415427
+    second: Key 15 - GOLD - Spritesheet_31
+  - first:
+      213: 5530245291837494095
+    second: Key 15 - GOLD - Spritesheet_32
+  - first:
+      213: -1274119290725538283
+    second: Key 15 - GOLD - Spritesheet_33
+  - first:
+      213: 6409704171642052076
+    second: Key 15 - GOLD - Spritesheet_34
+  - first:
+      213: 6064875899761008489
+    second: Key 15 - GOLD - Spritesheet_35
+  - first:
+      213: 4009597101660615333
+    second: Key 15 - GOLD - Spritesheet_36
+  - first:
+      213: -6839339498122217898
+    second: Key 15 - GOLD - Spritesheet_37
+  - first:
+      213: -2077057959939681765
+    second: Key 15 - GOLD - Spritesheet_38
+  - first:
+      213: -7648727079746615334
+    second: Key 15 - GOLD - Spritesheet_39
+  - first:
+      213: -5941882982659543721
+    second: Key 15 - GOLD - Spritesheet_40
+  - first:
+      213: 2359682762531797750
+    second: Key 15 - GOLD - Spritesheet_41
+  - first:
+      213: 1242178983151538322
+    second: Key 15 - GOLD - Spritesheet_42
+  - first:
+      213: -92645869630454029
+    second: Key 15 - GOLD - Spritesheet_43
+  - first:
+      213: 6589835665136078873
+    second: Key 15 - GOLD - Spritesheet_44
+  - first:
+      213: -190720041971723396
+    second: Key 15 - GOLD - Spritesheet_45
+  - first:
+      213: -7312114230891180076
+    second: Key 15 - GOLD - Spritesheet_46
+  - first:
+      213: -5408358175078637811
+    second: Key 15 - GOLD - Spritesheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16145c67b9a78e600800000000000000
+      internalID: 497782566955598177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4465b6a709886e200800000000000000
+      internalID: 209004586829829700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee278dd4d949d250800000000000000
+      internalID: 5969883959654821603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca332e352f5f598b0800000000000000
+      internalID: -5145936578062699604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ab13d532445b0e0800000000000000
+      internalID: -2254821119750980979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11781701ab4824a10800000000000000
+      internalID: 1892220728123688721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1c491fd01d62c50800000000000000
+      internalID: 6640224558422213075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e86f575e6c742b0800000000000000
+      internalID: -5600288922783019393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246102e4c871f2670800000000000000
+      internalID: 8516051311754483266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db60c45f456edfc0800000000000000
+      internalID: -3468223271629984810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3240b74679752c0800000000000000
+      internalID: -4442916049561312309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e3e51be8981cf0800000000000000
+      internalID: -281306841258662638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1de2ec52d806cb80800000000000000
+      internalID: -8374996757454328548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568b198838035870800000000000000
+      internalID: 8670282746529810009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb87c842f25624d0800000000000000
+      internalID: -3159746887997223993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d474a4ae43dc947d0800000000000000
+      internalID: -2933588055102437555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35185cca9b381b0800000000000000
+      internalID: -5655472555348110358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72ae25f4f8d4c2b0800000000000000
+      internalID: -5565084692925996418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb210f9736ed20b0800000000000000
+      internalID: -5751688022517011465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e09d518e4c61250800000000000000
+      internalID: 5915131661675728530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7903da3f23227fc20800000000000000
+      internalID: 3240096059148284055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fbaf322fe747d50800000000000000
+      internalID: 6734146921276555075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca064257cd12b700800000000000000
+      internalID: 554538446036011712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cca4483c6c12c80800000000000000
+      internalID: -8349173691127772115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46dabb6ccd4379f0800000000000000
+      internalID: -471947995567696306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cea7fcd4d6c3100800000000000000
+      internalID: 89066273601416312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e926af56d9259540800000000000000
+      internalID: 5013959760851380707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e6980fbd9939a0800000000000000
+      internalID: -6252793163818802115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3337069014728ca0800000000000000
+      internalID: -6016118537628208326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef19822d47f08a110800000000000000
+      internalID: 1272283889148662270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2598bdbd1540c7d20800000000000000
+      internalID: 3277499378446338386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7e06fe4d1b10ae0800000000000000
+      internalID: -1584790065750415427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4310ccdac06fbc40800000000000000
+      internalID: 5530245291837494095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e4d2714b615ee0800000000000000
+      internalID: -1274119290725538283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced501aebf7d3f850800000000000000
+      internalID: 6409704171642052076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f151c6f74ca2450800000000000000
+      internalID: 6064875899761008489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2bae8f153f4a730800000000000000
+      internalID: 4009597101660615333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656702c76f8c511a0800000000000000
+      internalID: -6839339498122217898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12d5e74acecc23e0800000000000000
+      internalID: -2077057959939681765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7cac3ee334ad590800000000000000
+      internalID: -7648727079746615334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75da3a1a8e03a8da0800000000000000
+      internalID: -5941882982659543721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faf15b68f64fb020800000000000000
+      internalID: 2359682762531797750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290143e243b1d3110800000000000000
+      internalID: 1242178983151538322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f605ca821bd6bef0800000000000000
+      internalID: -92645869630454029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910d2ac7f9cc37b50800000000000000
+      internalID: 6589835665136078873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c735abed12d6a5df0800000000000000
+      internalID: -190720041971723396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df07a629d6268a90800000000000000
+      internalID: -7312114230891180076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GOLD - Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9b5cf4e6a1f4b0800000000000000
+      internalID: -5408358175078637811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Key 15 - GOLD - Spritesheet_0: 497782566955598177
+      Key 15 - GOLD - Spritesheet_1: 209004586829829700
+      Key 15 - GOLD - Spritesheet_10: -4442916049561312309
+      Key 15 - GOLD - Spritesheet_11: -281306841258662638
+      Key 15 - GOLD - Spritesheet_12: -8374996757454328548
+      Key 15 - GOLD - Spritesheet_13: 8670282746529810009
+      Key 15 - GOLD - Spritesheet_14: -3159746887997223993
+      Key 15 - GOLD - Spritesheet_15: -2933588055102437555
+      Key 15 - GOLD - Spritesheet_16: -5655472555348110358
+      Key 15 - GOLD - Spritesheet_17: -5565084692925996418
+      Key 15 - GOLD - Spritesheet_18: -5751688022517011465
+      Key 15 - GOLD - Spritesheet_19: 5915131661675728530
+      Key 15 - GOLD - Spritesheet_2: 5969883959654821603
+      Key 15 - GOLD - Spritesheet_20: 3240096059148284055
+      Key 15 - GOLD - Spritesheet_21: 6734146921276555075
+      Key 15 - GOLD - Spritesheet_22: 554538446036011712
+      Key 15 - GOLD - Spritesheet_23: -8349173691127772115
+      Key 15 - GOLD - Spritesheet_24: -471947995567696306
+      Key 15 - GOLD - Spritesheet_25: 89066273601416312
+      Key 15 - GOLD - Spritesheet_26: 5013959760851380707
+      Key 15 - GOLD - Spritesheet_27: -6252793163818802115
+      Key 15 - GOLD - Spritesheet_28: -6016118537628208326
+      Key 15 - GOLD - Spritesheet_29: 1272283889148662270
+      Key 15 - GOLD - Spritesheet_3: -5145936578062699604
+      Key 15 - GOLD - Spritesheet_30: 3277499378446338386
+      Key 15 - GOLD - Spritesheet_31: -1584790065750415427
+      Key 15 - GOLD - Spritesheet_32: 5530245291837494095
+      Key 15 - GOLD - Spritesheet_33: -1274119290725538283
+      Key 15 - GOLD - Spritesheet_34: 6409704171642052076
+      Key 15 - GOLD - Spritesheet_35: 6064875899761008489
+      Key 15 - GOLD - Spritesheet_36: 4009597101660615333
+      Key 15 - GOLD - Spritesheet_37: -6839339498122217898
+      Key 15 - GOLD - Spritesheet_38: -2077057959939681765
+      Key 15 - GOLD - Spritesheet_39: -7648727079746615334
+      Key 15 - GOLD - Spritesheet_4: -2254821119750980979
+      Key 15 - GOLD - Spritesheet_40: -5941882982659543721
+      Key 15 - GOLD - Spritesheet_41: 2359682762531797750
+      Key 15 - GOLD - Spritesheet_42: 1242178983151538322
+      Key 15 - GOLD - Spritesheet_43: -92645869630454029
+      Key 15 - GOLD - Spritesheet_44: 6589835665136078873
+      Key 15 - GOLD - Spritesheet_45: -190720041971723396
+      Key 15 - GOLD - Spritesheet_46: -7312114230891180076
+      Key 15 - GOLD - Spritesheet_47: -5408358175078637811
+      Key 15 - GOLD - Spritesheet_5: 1892220728123688721
+      Key 15 - GOLD - Spritesheet_6: 6640224558422213075
+      Key 15 - GOLD - Spritesheet_7: -5600288922783019393
+      Key 15 - GOLD - Spritesheet_8: 8516051311754483266
+      Key 15 - GOLD - Spritesheet_9: -3468223271629984810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: edd8a618e58f4ef43ae227c1a605e421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5514517947634648506
+    second: Key 13 - BRONZE - Spritesheet_0
+  - first:
+      213: -7676675219509118635
+    second: Key 13 - BRONZE - Spritesheet_1
+  - first:
+      213: -1731615959496093767
+    second: Key 13 - BRONZE - Spritesheet_2
+  - first:
+      213: 6366332870980451513
+    second: Key 13 - BRONZE - Spritesheet_3
+  - first:
+      213: 4838189344717477707
+    second: Key 13 - BRONZE - Spritesheet_4
+  - first:
+      213: 9165876343506347107
+    second: Key 13 - BRONZE - Spritesheet_5
+  - first:
+      213: 7544925870838684338
+    second: Key 13 - BRONZE - Spritesheet_6
+  - first:
+      213: 4539151451226271351
+    second: Key 13 - BRONZE - Spritesheet_7
+  - first:
+      213: -7966441754392913807
+    second: Key 13 - BRONZE - Spritesheet_8
+  - first:
+      213: -7496568978398144540
+    second: Key 13 - BRONZE - Spritesheet_9
+  - first:
+      213: -2247592919697801963
+    second: Key 13 - BRONZE - Spritesheet_10
+  - first:
+      213: 1116164638796811587
+    second: Key 13 - BRONZE - Spritesheet_11
+  - first:
+      213: 1011531009697152101
+    second: Key 13 - BRONZE - Spritesheet_12
+  - first:
+      213: 3590469801783978977
+    second: Key 13 - BRONZE - Spritesheet_13
+  - first:
+      213: 988848856108715010
+    second: Key 13 - BRONZE - Spritesheet_14
+  - first:
+      213: -7973065783950237244
+    second: Key 13 - BRONZE - Spritesheet_15
+  - first:
+      213: -7270459215764821815
+    second: Key 13 - BRONZE - Spritesheet_16
+  - first:
+      213: -887001181048166197
+    second: Key 13 - BRONZE - Spritesheet_17
+  - first:
+      213: 8670529380898948415
+    second: Key 13 - BRONZE - Spritesheet_18
+  - first:
+      213: -4500471804001170053
+    second: Key 13 - BRONZE - Spritesheet_19
+  - first:
+      213: 8816852439044579702
+    second: Key 13 - BRONZE - Spritesheet_20
+  - first:
+      213: 583727027520943249
+    second: Key 13 - BRONZE - Spritesheet_21
+  - first:
+      213: -813332797222452511
+    second: Key 13 - BRONZE - Spritesheet_22
+  - first:
+      213: -7213291800168417441
+    second: Key 13 - BRONZE - Spritesheet_23
+  - first:
+      213: -7880615715115416112
+    second: Key 13 - BRONZE - Spritesheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab587403bd0878c40800000000000000
+      internalID: 5514517947634648506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5597d158f88f67590800000000000000
+      internalID: -7676675219509118635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf86d6957018f7e0800000000000000
+      internalID: -1731615959496093767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcbea01402c95850800000000000000
+      internalID: 6366332870980451513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4717ff3393b42340800000000000000
+      internalID: 4838189344717477707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3642ad5b8fbb33f70800000000000000
+      internalID: 9165876343506347107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba9ef3da16f4b860800000000000000
+      internalID: 7544925870838684338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e6a08023e4efe30800000000000000
+      internalID: 4539151451226271351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1781291be63817190800000000000000
+      internalID: -7966441754392913807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e79d509b36d6f790800000000000000
+      internalID: -7496568978398144540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbab5d522fec0e0800000000000000
+      internalID: -2247592919697801963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d065643d96d7f00800000000000000
+      internalID: 1116164638796811587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c7a40181ea90e00800000000000000
+      internalID: 1011531009697152101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe918f249e3d130800000000000000
+      internalID: 3590469801783978977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c49e4abc819bd00800000000000000
+      internalID: 988848856108715010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c123d0a9eaf95190800000000000000
+      internalID: -7973065783950237244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c86f522dd32a1b90800000000000000
+      internalID: -7270459215764821815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a548102db0b3f0800000000000000
+      internalID: -887001181048166197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35c1139888e35870800000000000000
+      internalID: 8670529380898948415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d49d02dbc1b81c0800000000000000
+      internalID: -4500471804001170053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671e9426490cb5a70800000000000000
+      internalID: 8816852439044579702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1943e2983a0d91800800000000000000
+      internalID: 583727027520943249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e28161512676b4f0800000000000000
+      internalID: -813332797222452511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5739bd435d35eb90800000000000000
+      internalID: -7213291800168417441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - BRONZE - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d54f29a2cd62a290800000000000000
+      internalID: -7880615715115416112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Key 13 - BRONZE - Spritesheet_0: 5514517947634648506
+      Key 13 - BRONZE - Spritesheet_1: -7676675219509118635
+      Key 13 - BRONZE - Spritesheet_10: -2247592919697801963
+      Key 13 - BRONZE - Spritesheet_11: 1116164638796811587
+      Key 13 - BRONZE - Spritesheet_12: 1011531009697152101
+      Key 13 - BRONZE - Spritesheet_13: 3590469801783978977
+      Key 13 - BRONZE - Spritesheet_14: 988848856108715010
+      Key 13 - BRONZE - Spritesheet_15: -7973065783950237244
+      Key 13 - BRONZE - Spritesheet_16: -7270459215764821815
+      Key 13 - BRONZE - Spritesheet_17: -887001181048166197
+      Key 13 - BRONZE - Spritesheet_18: 8670529380898948415
+      Key 13 - BRONZE - Spritesheet_19: -4500471804001170053
+      Key 13 - BRONZE - Spritesheet_2: -1731615959496093767
+      Key 13 - BRONZE - Spritesheet_20: 8816852439044579702
+      Key 13 - BRONZE - Spritesheet_21: 583727027520943249
+      Key 13 - BRONZE - Spritesheet_22: -813332797222452511
+      Key 13 - BRONZE - Spritesheet_23: -7213291800168417441
+      Key 13 - BRONZE - Spritesheet_24: -7880615715115416112
+      Key 13 - BRONZE - Spritesheet_3: 6366332870980451513
+      Key 13 - BRONZE - Spritesheet_4: 4838189344717477707
+      Key 13 - BRONZE - Spritesheet_5: 9165876343506347107
+      Key 13 - BRONZE - Spritesheet_6: 7544925870838684338
+      Key 13 - BRONZE - Spritesheet_7: 4539151451226271351
+      Key 13 - BRONZE - Spritesheet_8: -7966441754392913807
+      Key 13 - BRONZE - Spritesheet_9: -7496568978398144540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

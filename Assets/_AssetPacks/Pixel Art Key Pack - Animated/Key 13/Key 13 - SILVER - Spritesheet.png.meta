@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 84f68516052b0f34bba6ef8f028760cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4976798016498857410
+    second: Key 13 - SILVER - Spritesheet_0
+  - first:
+      213: -3262159438960197529
+    second: Key 13 - SILVER - Spritesheet_1
+  - first:
+      213: -6327612757337269117
+    second: Key 13 - SILVER - Spritesheet_2
+  - first:
+      213: 2236994983165402270
+    second: Key 13 - SILVER - Spritesheet_3
+  - first:
+      213: -9093746478270411358
+    second: Key 13 - SILVER - Spritesheet_4
+  - first:
+      213: 5068026106194872049
+    second: Key 13 - SILVER - Spritesheet_5
+  - first:
+      213: 4228406141673756880
+    second: Key 13 - SILVER - Spritesheet_6
+  - first:
+      213: 3358344144600103075
+    second: Key 13 - SILVER - Spritesheet_7
+  - first:
+      213: -5684718541431079288
+    second: Key 13 - SILVER - Spritesheet_8
+  - first:
+      213: -8891917181997624474
+    second: Key 13 - SILVER - Spritesheet_9
+  - first:
+      213: 2832008639283078370
+    second: Key 13 - SILVER - Spritesheet_10
+  - first:
+      213: 8971436972529516955
+    second: Key 13 - SILVER - Spritesheet_11
+  - first:
+      213: 7432565201645270111
+    second: Key 13 - SILVER - Spritesheet_12
+  - first:
+      213: 9097171394869310967
+    second: Key 13 - SILVER - Spritesheet_13
+  - first:
+      213: -4288387095993977551
+    second: Key 13 - SILVER - Spritesheet_14
+  - first:
+      213: -1291698806607315876
+    second: Key 13 - SILVER - Spritesheet_15
+  - first:
+      213: -3375001202547464546
+    second: Key 13 - SILVER - Spritesheet_16
+  - first:
+      213: 5386986254622728113
+    second: Key 13 - SILVER - Spritesheet_17
+  - first:
+      213: 2528143210565096257
+    second: Key 13 - SILVER - Spritesheet_18
+  - first:
+      213: -660871694279851060
+    second: Key 13 - SILVER - Spritesheet_19
+  - first:
+      213: -3062581372877445136
+    second: Key 13 - SILVER - Spritesheet_20
+  - first:
+      213: 3715741106384344734
+    second: Key 13 - SILVER - Spritesheet_21
+  - first:
+      213: 3488072161774623530
+    second: Key 13 - SILVER - Spritesheet_22
+  - first:
+      213: 8497604484692866190
+    second: Key 13 - SILVER - Spritesheet_23
+  - first:
+      213: -2495043005282225355
+    second: Key 13 - SILVER - Spritesheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c578448d63211540800000000000000
+      internalID: 4976798016498857410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7600710264b7ab2d0800000000000000
+      internalID: -3262159438960197529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c9eaae8bdcf28a0800000000000000
+      internalID: -6327612757337269117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c97e7c5176b0f10800000000000000
+      internalID: 2236994983165402270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8b3d32c58cc180800000000000000
+      internalID: -9093746478270411358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6c62c54ee355640800000000000000
+      internalID: 5068026106194872049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d85b889bf05eaa30800000000000000
+      internalID: 4228406141673756880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f66cc43c3b9e20800000000000000
+      internalID: 3358344144600103075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e7ce10b92db11b0800000000000000
+      internalID: -5684718541431079288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663d6d23f60999480800000000000000
+      internalID: -8891917181997624474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e42e415ad05d4720800000000000000
+      internalID: 2832008639283078370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b918d60d462f08c70800000000000000
+      internalID: 8971436972529516955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54fef5eba6c52760800000000000000
+      internalID: 7432565201645270111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5b70c4f25af3e70800000000000000
+      internalID: 9097171394869310967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f8e338a69c74c0800000000000000
+      internalID: -4288387095993977551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cff5377c6f21ee0800000000000000
+      internalID: -1291698806607315876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9664ada9469921d0800000000000000
+      internalID: -3375001202547464546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf13b4057b62ca40800000000000000
+      internalID: 5386986254622728113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1435c07fad4c51320800000000000000
+      internalID: 2528143210565096257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3c65c02bc14d6f0800000000000000
+      internalID: -660871694279851060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f769e5b7768f75d0800000000000000
+      internalID: -3062581372877445136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e961b5379d6f09330800000000000000
+      internalID: 3715741106384344734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b5189862f186030800000000000000
+      internalID: 3488072161774623530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8472efa14e8de570800000000000000
+      internalID: 8497604484692866190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 13 - SILVER - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53374d22b93df5dd0800000000000000
+      internalID: -2495043005282225355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Key 13 - SILVER - Spritesheet_0: 4976798016498857410
+      Key 13 - SILVER - Spritesheet_1: -3262159438960197529
+      Key 13 - SILVER - Spritesheet_10: 2832008639283078370
+      Key 13 - SILVER - Spritesheet_11: 8971436972529516955
+      Key 13 - SILVER - Spritesheet_12: 7432565201645270111
+      Key 13 - SILVER - Spritesheet_13: 9097171394869310967
+      Key 13 - SILVER - Spritesheet_14: -4288387095993977551
+      Key 13 - SILVER - Spritesheet_15: -1291698806607315876
+      Key 13 - SILVER - Spritesheet_16: -3375001202547464546
+      Key 13 - SILVER - Spritesheet_17: 5386986254622728113
+      Key 13 - SILVER - Spritesheet_18: 2528143210565096257
+      Key 13 - SILVER - Spritesheet_19: -660871694279851060
+      Key 13 - SILVER - Spritesheet_2: -6327612757337269117
+      Key 13 - SILVER - Spritesheet_20: -3062581372877445136
+      Key 13 - SILVER - Spritesheet_21: 3715741106384344734
+      Key 13 - SILVER - Spritesheet_22: 3488072161774623530
+      Key 13 - SILVER - Spritesheet_23: 8497604484692866190
+      Key 13 - SILVER - Spritesheet_24: -2495043005282225355
+      Key 13 - SILVER - Spritesheet_3: 2236994983165402270
+      Key 13 - SILVER - Spritesheet_4: -9093746478270411358
+      Key 13 - SILVER - Spritesheet_5: 5068026106194872049
+      Key 13 - SILVER - Spritesheet_6: 4228406141673756880
+      Key 13 - SILVER - Spritesheet_7: 3358344144600103075
+      Key 13 - SILVER - Spritesheet_8: -5684718541431079288
+      Key 13 - SILVER - Spritesheet_9: -8891917181997624474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

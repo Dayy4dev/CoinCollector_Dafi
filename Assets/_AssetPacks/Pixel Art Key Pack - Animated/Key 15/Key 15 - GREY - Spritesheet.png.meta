@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 7134cc11a505946488c8dfd6a71f798a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8000804453945987300
+    second: Key 15 - GREY - Spritesheet_0
+  - first:
+      213: -7820896103171295119
+    second: Key 15 - GREY - Spritesheet_1
+  - first:
+      213: -5386394760089597594
+    second: Key 15 - GREY - Spritesheet_2
+  - first:
+      213: 7687678244314671020
+    second: Key 15 - GREY - Spritesheet_3
+  - first:
+      213: -8827230750252246645
+    second: Key 15 - GREY - Spritesheet_4
+  - first:
+      213: -8013801951637228930
+    second: Key 15 - GREY - Spritesheet_5
+  - first:
+      213: -3342215767541268151
+    second: Key 15 - GREY - Spritesheet_6
+  - first:
+      213: -8373265124964785076
+    second: Key 15 - GREY - Spritesheet_7
+  - first:
+      213: 5395526240471284552
+    second: Key 15 - GREY - Spritesheet_8
+  - first:
+      213: -7174359008237001550
+    second: Key 15 - GREY - Spritesheet_9
+  - first:
+      213: -3312311844999499755
+    second: Key 15 - GREY - Spritesheet_10
+  - first:
+      213: 5927847989857494902
+    second: Key 15 - GREY - Spritesheet_11
+  - first:
+      213: -8534121483208210972
+    second: Key 15 - GREY - Spritesheet_12
+  - first:
+      213: -3619401019158225130
+    second: Key 15 - GREY - Spritesheet_13
+  - first:
+      213: 4947110561860131992
+    second: Key 15 - GREY - Spritesheet_14
+  - first:
+      213: 2026786842381072680
+    second: Key 15 - GREY - Spritesheet_15
+  - first:
+      213: 8635441473829415715
+    second: Key 15 - GREY - Spritesheet_16
+  - first:
+      213: 395824294889564114
+    second: Key 15 - GREY - Spritesheet_17
+  - first:
+      213: 5118145875998811291
+    second: Key 15 - GREY - Spritesheet_18
+  - first:
+      213: 6175868867182740033
+    second: Key 15 - GREY - Spritesheet_19
+  - first:
+      213: -2641676192321298562
+    second: Key 15 - GREY - Spritesheet_20
+  - first:
+      213: 2800495969073058488
+    second: Key 15 - GREY - Spritesheet_21
+  - first:
+      213: -4593483705929303704
+    second: Key 15 - GREY - Spritesheet_22
+  - first:
+      213: 84285831615345182
+    second: Key 15 - GREY - Spritesheet_23
+  - first:
+      213: -5509539680887266665
+    second: Key 15 - GREY - Spritesheet_24
+  - first:
+      213: -4723658369325853535
+    second: Key 15 - GREY - Spritesheet_25
+  - first:
+      213: 6105502434269326205
+    second: Key 15 - GREY - Spritesheet_26
+  - first:
+      213: 6568865423982690628
+    second: Key 15 - GREY - Spritesheet_27
+  - first:
+      213: -3134154586475253099
+    second: Key 15 - GREY - Spritesheet_28
+  - first:
+      213: 2746916052121291054
+    second: Key 15 - GREY - Spritesheet_29
+  - first:
+      213: 2488031909171764720
+    second: Key 15 - GREY - Spritesheet_30
+  - first:
+      213: -3216327818188125095
+    second: Key 15 - GREY - Spritesheet_31
+  - first:
+      213: 7491291370817928203
+    second: Key 15 - GREY - Spritesheet_32
+  - first:
+      213: 2005447881814640165
+    second: Key 15 - GREY - Spritesheet_33
+  - first:
+      213: 7330239250809196768
+    second: Key 15 - GREY - Spritesheet_34
+  - first:
+      213: 1448984542483717762
+    second: Key 15 - GREY - Spritesheet_35
+  - first:
+      213: -1677743198234681948
+    second: Key 15 - GREY - Spritesheet_36
+  - first:
+      213: 6566650694721082563
+    second: Key 15 - GREY - Spritesheet_37
+  - first:
+      213: 2845683826443088145
+    second: Key 15 - GREY - Spritesheet_38
+  - first:
+      213: 2532467552000113151
+    second: Key 15 - GREY - Spritesheet_39
+  - first:
+      213: -2950008582776126177
+    second: Key 15 - GREY - Spritesheet_40
+  - first:
+      213: -3127850529444157696
+    second: Key 15 - GREY - Spritesheet_41
+  - first:
+      213: 8369945753168558624
+    second: Key 15 - GREY - Spritesheet_42
+  - first:
+      213: 634840012442218336
+    second: Key 15 - GREY - Spritesheet_43
+  - first:
+      213: 6325000124663699593
+    second: Key 15 - GREY - Spritesheet_44
+  - first:
+      213: -182308499586708290
+    second: Key 15 - GREY - Spritesheet_45
+  - first:
+      213: -416401953819978239
+    second: Key 15 - GREY - Spritesheet_46
+  - first:
+      213: -4707604365459041771
+    second: Key 15 - GREY - Spritesheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e050d2c241980f60800000000000000
+      internalID: 8000804453945987300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178fc395e68967390800000000000000
+      internalID: -7820896103171295119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66985d8018eaf35b0800000000000000
+      internalID: -5386394760089597594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7efd3d1ae10ba60800000000000000
+      internalID: 7687678244314671020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b895fccb6606f7580800000000000000
+      internalID: -8827230750252246645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72b45c759149c090800000000000000
+      internalID: -8013801951637228930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9414efc97701e91d0800000000000000
+      internalID: -3342215767541268151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44ae487bbf2ccb80800000000000000
+      internalID: -8373265124964785076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bf69b6782c0ea40800000000000000
+      internalID: 5395526240471284552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4e8ee4e7e8f6c90800000000000000
+      internalID: -7174359008237001550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107c752ded4802d0800000000000000
+      internalID: -3312311844999499755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67728f5f652f34250800000000000000
+      internalID: 5927847989857494902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5485b0ab5b09980800000000000000
+      internalID: -8534121483208210972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f136113fd45cdc0800000000000000
+      internalID: -3619401019158225130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c914858daa7a440800000000000000
+      internalID: 4947110561860131992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8293f8f05e7902c10800000000000000
+      internalID: 2026786842381072680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b2746944047d770800000000000000
+      internalID: 8635441473829415715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7ac5a59104e7500800000000000000
+      internalID: 395824294889564114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b942a8f9e8e470740800000000000000
+      internalID: 5118145875998811291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14242d7730815b550800000000000000
+      internalID: 6175868867182740033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f1511df71e65bd0800000000000000
+      internalID: -2641676192321298562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b253870f3c5dd620800000000000000
+      internalID: 2800495969073058488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869f98228eaa040c0800000000000000
+      internalID: -4593483705929303704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f70d64817b2100800000000000000
+      internalID: 84285831615345182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792abccd9de2a83b0800000000000000
+      internalID: -5509539680887266665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a418087db1327eb0800000000000000
+      internalID: -4723658369325853535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7be7e99d1a1bb450800000000000000
+      internalID: 6105502434269326205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44185ddbc4c492b50800000000000000
+      internalID: 6568865423982690628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5923bf1520f3184d0800000000000000
+      internalID: -3134154586475253099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29028a78910f1620800000000000000
+      internalID: 2746916052121291054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd1508d6d3478220800000000000000
+      internalID: 2488031909171764720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c80b3e3ee4d53d0800000000000000
+      internalID: -3216327818188125095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c3d8aafc966f760800000000000000
+      internalID: 7491291370817928203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5260f132938c4db10800000000000000
+      internalID: 2005447881814640165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e09b17e2cd3ab560800000000000000
+      internalID: 7330239250809196768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e16cba3c3db1410800000000000000
+      internalID: 1448984542483717762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4add4e4437577b8e0800000000000000
+      internalID: -1677743198234681948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41ce6e30e612b50800000000000000
+      internalID: 6566650694721082563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f632fc56ed7720800000000000000
+      internalID: 2845683826443088145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff97b2a22d1252320800000000000000
+      internalID: 2532467552000113151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f158643e2d67f07d0800000000000000
+      internalID: -2950008582776126177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a6f9f384a794d0800000000000000
+      internalID: -3127850529444157696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ab6ee0155082470800000000000000
+      internalID: 8369945753168558624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fa2d6b0a76fc800800000000000000
+      internalID: 634840012442218336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98891e22a1ae6c750800000000000000
+      internalID: 6325000124663699593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc8992b26f487df0800000000000000
+      internalID: -182308499586708290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10618c211a4a83af0800000000000000
+      internalID: -416401953819978239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key 15 - GREY - Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5125cb585ca3baeb0800000000000000
+      internalID: -4707604365459041771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Key 15 - GREY - Spritesheet_0: 8000804453945987300
+      Key 15 - GREY - Spritesheet_1: -7820896103171295119
+      Key 15 - GREY - Spritesheet_10: -3312311844999499755
+      Key 15 - GREY - Spritesheet_11: 5927847989857494902
+      Key 15 - GREY - Spritesheet_12: -8534121483208210972
+      Key 15 - GREY - Spritesheet_13: -3619401019158225130
+      Key 15 - GREY - Spritesheet_14: 4947110561860131992
+      Key 15 - GREY - Spritesheet_15: 2026786842381072680
+      Key 15 - GREY - Spritesheet_16: 8635441473829415715
+      Key 15 - GREY - Spritesheet_17: 395824294889564114
+      Key 15 - GREY - Spritesheet_18: 5118145875998811291
+      Key 15 - GREY - Spritesheet_19: 6175868867182740033
+      Key 15 - GREY - Spritesheet_2: -5386394760089597594
+      Key 15 - GREY - Spritesheet_20: -2641676192321298562
+      Key 15 - GREY - Spritesheet_21: 2800495969073058488
+      Key 15 - GREY - Spritesheet_22: -4593483705929303704
+      Key 15 - GREY - Spritesheet_23: 84285831615345182
+      Key 15 - GREY - Spritesheet_24: -5509539680887266665
+      Key 15 - GREY - Spritesheet_25: -4723658369325853535
+      Key 15 - GREY - Spritesheet_26: 6105502434269326205
+      Key 15 - GREY - Spritesheet_27: 6568865423982690628
+      Key 15 - GREY - Spritesheet_28: -3134154586475253099
+      Key 15 - GREY - Spritesheet_29: 2746916052121291054
+      Key 15 - GREY - Spritesheet_3: 7687678244314671020
+      Key 15 - GREY - Spritesheet_30: 2488031909171764720
+      Key 15 - GREY - Spritesheet_31: -3216327818188125095
+      Key 15 - GREY - Spritesheet_32: 7491291370817928203
+      Key 15 - GREY - Spritesheet_33: 2005447881814640165
+      Key 15 - GREY - Spritesheet_34: 7330239250809196768
+      Key 15 - GREY - Spritesheet_35: 1448984542483717762
+      Key 15 - GREY - Spritesheet_36: -1677743198234681948
+      Key 15 - GREY - Spritesheet_37: 6566650694721082563
+      Key 15 - GREY - Spritesheet_38: 2845683826443088145
+      Key 15 - GREY - Spritesheet_39: 2532467552000113151
+      Key 15 - GREY - Spritesheet_4: -8827230750252246645
+      Key 15 - GREY - Spritesheet_40: -2950008582776126177
+      Key 15 - GREY - Spritesheet_41: -3127850529444157696
+      Key 15 - GREY - Spritesheet_42: 8369945753168558624
+      Key 15 - GREY - Spritesheet_43: 634840012442218336
+      Key 15 - GREY - Spritesheet_44: 6325000124663699593
+      Key 15 - GREY - Spritesheet_45: -182308499586708290
+      Key 15 - GREY - Spritesheet_46: -416401953819978239
+      Key 15 - GREY - Spritesheet_47: -4707604365459041771
+      Key 15 - GREY - Spritesheet_5: -8013801951637228930
+      Key 15 - GREY - Spritesheet_6: -3342215767541268151
+      Key 15 - GREY - Spritesheet_7: -8373265124964785076
+      Key 15 - GREY - Spritesheet_8: 5395526240471284552
+      Key 15 - GREY - Spritesheet_9: -7174359008237001550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
