@@ -8,10 +8,20 @@ public class PlayerMovement : MonoBehaviour, IDamageable
     public int skor;
     private GameManager gameManager;
     private Vector2 arahGerak; // nilai dari action "Move"
+    private PlayerAnimation animasi;
+    private Rigidbody2D rb; // dipakai supaya player bisa nabrak dinding
+
+    // Dipakai oleh PlayerAnimation untuk tahu player sedang gerak ke arah mana
+    public Vector2 ArahGerak
+    {
+        get { return arahGerak; }
+    }
 
     void Start()
     {
         gameManager = FindFirstObjectByType<GameManager>();
+        animasi = GetComponent<PlayerAnimation>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     // Dipanggil OTOMATIS oleh komponen Player Input
@@ -23,12 +33,22 @@ public class PlayerMovement : MonoBehaviour, IDamageable
         arahGerak = value.Get<Vector2>();
     }
 
-    void Update()
+    // Pakai FixedUpdate karena geraknya lewat Rigidbody2D (fisika).
+    // Kalau pakai transform.position, player akan TEMBUS dinding,
+    // karena posisi dipindah paksa tanpa dihitung physics-nya.
+    void FixedUpdate()
     {
-        // TODO: gerakkan objek memakai arahGerak.
-        // Ingat kalikan kecepatan DAN Time.deltaTime!
-        Vector3 arah = new Vector3(arahGerak.x, arahGerak.y, 0);
-        transform.position += arah * kecepatan * Time.deltaTime;
+        if (rb != null)
+        {
+            // kasih kecepatan ke Rigidbody2D -> physics yang urus tabrakannya
+            rb.linearVelocity = arahGerak * kecepatan;
+        }
+        else
+        {
+            // cadangan kalau Rigidbody2D lupa dipasang
+            Vector3 arah = new Vector3(arahGerak.x, arahGerak.y, 0);
+            transform.position += arah * kecepatan * Time.fixedDeltaTime;
+        }
     }
 
     // Dipanggil otomatis saat Player menyentuh objek ber-Trigger
@@ -62,9 +82,21 @@ public class PlayerMovement : MonoBehaviour, IDamageable
         hp = Mathf.Max(0, hp - damage);
         Debug.Log("<color=yellow>Player Kena Damage: " + damage + ", sisa HP: " + hp + "</color>");
 
+        // Jalankan animasi hurt
+        if (animasi != null)
+        {
+            animasi.MainHurt();
+        }
+
         if (hp == 0)
         {
             Debug.Log("<color=red>Player Mati</color>");
+
+            // Jalankan animasi mati
+            if (animasi != null)
+            {
+                animasi.MainMati();
+            }
         }
     }
 
