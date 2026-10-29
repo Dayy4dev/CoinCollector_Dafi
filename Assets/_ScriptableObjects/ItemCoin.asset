@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ItemDetails
   itemName: Coin
   quantity: 1
-  itemIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  description: test
+  itemIcon: {fileID: -2894087324749556274, guid: 5ba47f2cbedbfaa47bba201d79e8a3b4, type: 3}
+  description: Koin kuno yang langka.

@@ -204,7 +204,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -307,10 +307,12 @@ MonoBehaviour:
   itemQuantity: 0
   itemIcon: {fileID: 0}
   isFull: 0
-  maxStackSize: 99
   quantityText: {fileID: 7816662985719247394}
   itemImage: {fileID: 7004771405930723570}
+  maxStackSize: 99
   selectedPanel: {fileID: 9075346519129719444}
+  isItemSelected: 0
+  inventoryManager: {fileID: 0}
 --- !u!1 &9075346519129719444
 GameObject:
   m_ObjectHideFlags: 0
