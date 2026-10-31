@@ -99,6 +99,24 @@ public class InventoryManager : MonoBehaviour, GrabableItem
         Debug.LogWarning("Inventory is full, '" + item.ItemName + "' was lost.");
     }
 
+    /// <summary>
+    /// Mengecek apakah player memiliki item tertentu di inventory.
+    /// Contoh: inventory.HasItem("Key")
+    /// </summary>
+    public bool HasItem(string itemName)
+    {
+        if (itemSlot == null) return false;
+
+        for (int i = 0; i < itemSlot.Length; i++)
+        {
+            if (itemSlot[i] != null && !itemSlot[i].IsEmpty && itemSlot[i].itemName == itemName)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+
     public void SelectSlot(ItemSlot slot)
     {
         DesselectAllSlot();

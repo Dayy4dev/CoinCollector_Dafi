@@ -62,7 +62,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: cff743e0ab15649459a8cce1177450e5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DragonEnemy
   kecepatanPatroli: 1.6
-  kecepatanKejar: 3.4
+  kecepatanKejar: 3
   radiusPatroli: 2.8
   jedaPatroli: 0.7
   radiusBadan: 0.32

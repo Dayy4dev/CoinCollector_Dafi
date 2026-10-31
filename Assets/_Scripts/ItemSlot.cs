@@ -28,6 +28,24 @@ public class ItemSlot : MonoBehaviour, IPointerClickHandler
     public void Start()
     {
         inventoryManager = FindAnyObjectByType<InventoryManager>();
+        if (IsEmpty)
+        {
+            if (itemImage != null) itemImage.enabled = false;
+            if (quantityText != null) quantityText.enabled = false;
+        }
+        else
+        {
+            if (itemImage != null && itemIcon != null)
+            {
+                itemImage.sprite = itemIcon;
+                itemImage.enabled = true;
+            }
+            if (quantityText != null)
+            {
+                quantityText.text = itemQuantity.ToString();
+                quantityText.enabled = true;
+            }
+        }
     }
 
     public void AddItem(ItemDetails item)
@@ -53,6 +71,7 @@ public class ItemSlot : MonoBehaviour, IPointerClickHandler
         quantityText.text = itemQuantity.ToString();
         quantityText.enabled = true;
         itemImage.sprite = itemIcon;
+        itemImage.enabled = true;
     }
 
     public void OnPointerClick(PointerEventData eventData)

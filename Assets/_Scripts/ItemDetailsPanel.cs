@@ -20,7 +20,7 @@ public class ItemDetailsPanel : MonoBehaviour
         itemImage.sprite = item.ItemIcon;
         itemImage.enabled = true;
         itemNameText.text = item.ItemName;
-        itemQuantityText.text = "Quantity: " + quantity;
+        itemQuantityText.text = "Jumlah: " + quantity;
         itemDescriptionText.text = item.Description;
     }
 

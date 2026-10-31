@@ -74,6 +74,14 @@ public class PlayerMovement : MonoBehaviour, IDamageable
 
     public void KenaDamage(int damage)
     {
+        // Oper ke PlayerHealth jika ada
+        PlayerHealth playerHealth = GetComponent<PlayerHealth>();
+        if (playerHealth != null)
+        {
+            playerHealth.KenaDamage(damage);
+            return;
+        }
+
         if (hp <= 0)
         {
             return;
