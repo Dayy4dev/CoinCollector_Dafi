@@ -2,13 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/// <summary>
-/// Enemy Spawner sederhana untuk memunculkan musuh di titik-titik spawn yang ada di scene.
-/// Dibuat ramah pemula:
-/// - Ada jeda spawn berkala (Coroutine).
-/// - Ada batas maksimal musuh di arena agar game tidak lag atau terlalu ramai.
-/// - Otomatis mendeteksi EnemySpawnPoint di scene jika list belum diisi di Inspector.
-/// </summary>
 public class EnemySpawner : MonoBehaviour
 {
     [Header("Prefab Musuh")]
@@ -34,12 +27,6 @@ public class EnemySpawner : MonoBehaviour
 
     void Start()
     {
-        // 1. Kalau di Inspector belum diisi titikSpawn-nya, cari otomatis di scene
-        if (titikSpawn == null || titikSpawn.Length == 0)
-        {
-            CariTitikSpawnDiScene();
-        }
-
         // 2. Spawn pertama kali di awal permainan jika diaktifkan
         if (spawnDiAwal)
         {
@@ -55,29 +42,6 @@ public class EnemySpawner : MonoBehaviour
         StartCoroutine(LoopSpawn());
     }
 
-    /// <summary>
-    /// Mencari semua GameObject di scene yang namanya diawali "EnemySpawnPoint"
-    /// </summary>
-    void CariTitikSpawnDiScene()
-    {
-        Transform[] semuaTransform = FindObjectsByType<Transform>(FindObjectsSortMode.None);
-        List<Transform> hasilCari = new List<Transform>();
-
-        foreach (Transform t in semuaTransform)
-        {
-            if (t.name.StartsWith("EnemySpawnPoint"))
-            {
-                hasilCari.Add(t);
-            }
-        }
-
-        titikSpawn = hasilCari.ToArray();
-        Debug.Log("EnemySpawner menemukan " + titikSpawn.Length + " titik spawn di scene.");
-    }
-
-    /// <summary>
-    /// Coroutine yang jalan terus setiap beberapa detik untuk memunculkan musuh
-    /// </summary>
     IEnumerator LoopSpawn()
     {
         while (true)
@@ -96,9 +60,6 @@ public class EnemySpawner : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Memilih satu titik spawn secara acak, lalu membuat musuh di sana
-    /// </summary>
     public void SpawnSatuMusuhAcak()
     {
         if (enemyPrefab == null)
@@ -136,26 +97,8 @@ public class EnemySpawner : MonoBehaviour
         Debug.Log("<color=green>Spawned musuh di: " + targetSpawn.name + "</color>");
     }
 
-    /// <summary>
-    /// Menghapus referensi null (musuh yang sudah hancur/meledak) dari list
-    /// </summary>
     void BersihkanDaftarMusuh()
     {
         daftarMusuhAktif.RemoveAll(item => item == null);
-    }
-
-    // Gambar lingkaran hijau di tiap titik spawn untuk mempermudah melihat di editor
-    void OnDrawGizmosSelected()
-    {
-        if (titikSpawn == null) return;
-
-        Gizmos.color = Color.green;
-        foreach (Transform t in titikSpawn)
-        {
-            if (t != null)
-            {
-                Gizmos.DrawWireSphere(t.position, 0.5f);
-            }
-        }
     }
 }
